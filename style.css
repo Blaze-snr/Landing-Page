@@ -142,6 +142,9 @@ footer p {
     text-align: center;
     font-size: 1.15em;
   }
+  header {
+    background-image: url("bg-hero-mobile.svg");
+  }
   nav.flex {
     flex-direction: row;
   }
